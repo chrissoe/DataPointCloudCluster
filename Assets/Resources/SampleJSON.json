@@ -1,0 +1,545 @@
+{
+    "time": 2018,
+    "time-content": [
+        {
+            "subtime": 3,
+            "subtime-content": [
+                {
+                    "value1": "EUR",
+                    "value2": [
+                        {
+                            "contentvalue1": "DEU-FS",
+                            "contentvalue2": 2801454,
+                            "contentvalue3": 2581.3
+                        },
+                        {
+                            "contentvalue1": "ESP-FS",
+                            "contentvalue2": 236847,
+                            "contentvalue3": 218.44
+                        },
+                        {
+                            "contentvalue1": "GBR-FS",
+                            "contentvalue2": 1849604,
+                            "contentvalue3": 1716.3
+                        },
+                        {
+                            "contentvalue1": "AUT-FS",
+                            "contentvalue2": 547753,
+                            "contentvalue3": 545.74
+                        },
+                        {
+                            "contentvalue1": "AUT-MB",
+                            "contentvalue2": 390243,
+                            "contentvalue3": 386.66
+                        },
+                        {
+                            "contentvalue1": "HRV-FS",
+                            "contentvalue2": 666848,
+                            "contentvalue3": 616.45
+                        },
+                        {
+                            "contentvalue1": "GRC-FS",
+                            "contentvalue2": 383329,
+                            "contentvalue3": 358.52
+                        },
+                        {
+                            "contentvalue1": "HUN-FS",
+                            "contentvalue2": 2824,
+                            "contentvalue3": 2.6132
+                        },
+                        {
+                            "contentvalue1": "PRT-FS",
+                            "contentvalue2": 779475,
+                            "contentvalue3": 757.02
+                        },
+                        {
+                            "contentvalue1": "ROM-FS",
+                            "contentvalue2": 958755,
+                            "contentvalue3": 922.23
+                        },
+                        {
+                            "contentvalue1": "RUS-FS",
+                            "contentvalue2": 277329,
+                            "contentvalue3": 254.93
+                        },
+                        {
+                            "contentvalue1": "RUS-MB",
+                            "contentvalue2": 142100,
+                            "contentvalue3": 141.33
+                        },
+                        {
+                            "contentvalue1": "RUS-CS",
+                            "contentvalue2": 581430,
+                            "contentvalue3": 573.24
+                        },
+                        {
+                            "contentvalue1": "SVN-FS",
+                            "contentvalue2": 275927,
+                            "contentvalue3": 254.48
+                        },
+                        {
+                            "contentvalue1": "BEL-FS",
+                            "contentvalue2": 727186,
+                            "contentvalue3": 697.02
+                        },
+                        {
+                            "contentvalue1": "NLD-FS",
+                            "contentvalue2": 268773,
+                            "contentvalue3": 258.27
+                        },
+                        {
+                            "contentvalue1": "LUX-FS",
+                            "contentvalue2": 743997,
+                            "contentvalue3": 711.57
+                        },
+                        {
+                            "contentvalue1": "CZE-FS",
+                            "contentvalue2": 740287,
+                            "contentvalue3": 684.71
+                        },
+                        {
+                            "contentvalue1": "SVK-FS",
+                            "contentvalue2": 649920,
+                            "contentvalue3": 637.85
+                        },
+                        {
+                            "contentvalue1": "DNK-FS",
+                            "contentvalue2": 739067,
+                            "contentvalue3": 736.27
+                        },
+                        {
+                            "contentvalue1": "SWE-FS",
+                            "contentvalue2": 684793,
+                            "contentvalue3": 672.09
+                        },
+                        {
+                            "contentvalue1": "FRA-FS",
+                            "contentvalue2": 912001,
+                            "contentvalue3": 838.98
+                        },
+                        {
+                            "contentvalue1": "ITA-FS",
+                            "contentvalue2": 256726,
+                            "contentvalue3": 237.35
+                        },
+                        {
+                            "contentvalue1": "ITA-CW",
+                            "contentvalue2": 392872,
+                            "contentvalue3": 385.19
+                        },
+                        {
+                            "contentvalue1": "POL-FS",
+                            "contentvalue2": 877375,
+                            "contentvalue3": 832.8
+                        },
+                        {
+                            "contentvalue1": "CHE-FS",
+                            "contentvalue2": 61085,
+                            "contentvalue3": 59.309
+                        },
+                        {
+                            "contentvalue1": "TUR-FS",
+                            "contentvalue2": 483779,
+                            "contentvalue3": 461.98
+                        }
+                    ]
+                },
+                {
+                    "value1": "AMS",
+                    "value2": [
+                        {
+                            "contentvalue1": "USA",
+                            "contentvalue2": 2465209,
+                            "contentvalue3": 2433.3
+                        },
+                        {
+                            "contentvalue1": "USA-CS",
+                            "contentvalue2": 524207,
+                            "contentvalue3": 479.82
+                        },
+                        {
+                            "contentvalue1": "CAN-FS",
+                            "contentvalue2": 577879,
+                            "contentvalue3": 549.04
+                        },
+                        {
+                            "contentvalue1": "MEX-FS",
+                            "contentvalue2": 171768,
+                            "contentvalue3": 156.22
+                        },
+                        {
+                            "contentvalue1": "BRA-FS",
+                            "contentvalue2": 13660,
+                            "contentvalue3": 13.482
+                        },
+                        {
+                            "contentvalue1": "ARG-FS",
+                            "contentvalue2": 196567,
+                            "contentvalue3": 194.05
+                        },
+                        {
+                            "contentvalue1": "COL-FS",
+                            "contentvalue2": 307411,
+                            "contentvalue3": 304.52
+                        }
+                    ]
+                },
+                {
+                    "value1": "AAP",
+                    "value2": [
+                        {
+                            "contentvalue1": "AUS-FS",
+                            "contentvalue2": 498267,
+                            "contentvalue3": 467.14
+                        },
+                        {
+                            "contentvalue1": "HKG-FS",
+                            "contentvalue2": 101626,
+                            "contentvalue3": 98.252
+                        },
+                        {
+                            "contentvalue1": "IND-FS",
+                            "contentvalue2": 197602,
+                            "contentvalue3": 179.69
+                        },
+                        {
+                            "contentvalue1": "JPN-MB",
+                            "contentvalue2": 781141,
+                            "contentvalue3": 765.87
+                        },
+                        {
+                            "contentvalue1": "JPN-FS",
+                            "contentvalue2": 3024,
+                            "contentvalue3": 2.8902
+                        },
+                        {
+                            "contentvalue1": "KOR-FS",
+                            "contentvalue2": 1047412,
+                            "contentvalue3": 990.36
+                        },
+                        {
+                            "contentvalue1": "MAL-FS",
+                            "contentvalue2": 154946,
+                            "contentvalue3": 150.98
+                        },
+                        {
+                            "contentvalue1": "NZL-FS",
+                            "contentvalue2": 260112,
+                            "contentvalue3": 240.4
+                        },
+                        {
+                            "contentvalue1": "SGPUMF",
+                            "contentvalue2": 14095,
+                            "contentvalue3": 13.943
+                        },
+                        {
+                            "contentvalue1": "ZAF-FS",
+                            "contentvalue2": 708445,
+                            "contentvalue3": 670.73
+                        },
+                        {
+                            "contentvalue1": "TWN-FS",
+                            "contentvalue2": 1027218,
+                            "contentvalue3": 974.63
+                        },
+                        {
+                            "contentvalue1": "THA-FS",
+                            "contentvalue2": 657283,
+                            "contentvalue3": 637.54
+                        },
+                        {
+                            "contentvalue1": "ZAF-FM",
+                            "contentvalue2": 12058,
+                            "contentvalue3": 11.17
+                        }
+                    ]
+                },
+                {
+                    "value1": "CHN",
+                    "value2": [
+                        {
+                            "contentvalue1": "CHN-FS",
+                            "contentvalue2": 3098776,
+                            "contentvalue3": 2940.5
+                        },
+                        {
+                            "contentvalue1": "CHNMBL",
+                            "contentvalue2": 504971,
+                            "contentvalue3": 488.18
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subtime": 4,
+            "subtime-content": [
+                {
+                    "value1": "EUR",
+                    "value2": [
+                        {
+                            "contentvalue1": "DEU-FS",
+                            "contentvalue2": 2912500,
+                            "contentvalue3": 2359.4
+                        },
+                        {
+                            "contentvalue1": "ESP-FS",
+                            "contentvalue2": 242080,
+                            "contentvalue3": 244.19
+                        },
+                        {
+                            "contentvalue1": "GBR-FS",
+                            "contentvalue2": 1910903,
+                            "contentvalue3": 1741.7
+                        },
+                        {
+                            "contentvalue1": "AUT-FS",
+                            "contentvalue2": 578978,
+                            "contentvalue3": 579.69
+                        },
+                        {
+                            "contentvalue1": "AUT-MB",
+                            "contentvalue2": 428378,
+                            "contentvalue3": 434.99
+                        },
+                        {
+                            "contentvalue1": "HRV-FS",
+                            "contentvalue2": 725720,
+                            "contentvalue3": 654.73
+                        },
+                        {
+                            "contentvalue1": "GRC-FS",
+                            "contentvalue2": 401380,
+                            "contentvalue3": 320.96
+                        },
+                        {
+                            "contentvalue1": "HUN-FS",
+                            "contentvalue2": 2946,
+                            "contentvalue3": 2.8698
+                        },
+                        {
+                            "contentvalue1": "PRT-FS",
+                            "contentvalue2": 789409,
+                            "contentvalue3": 1315.4
+                        },
+                        {
+                            "contentvalue1": "ROM-FS",
+                            "contentvalue2": 1024278,
+                            "contentvalue3": 1005.5
+                        },
+                        {
+                            "contentvalue1": "RUS-FS",
+                            "contentvalue2": 296613,
+                            "contentvalue3": 261.87
+                        },
+                        {
+                            "contentvalue1": "RUS-MB",
+                            "contentvalue2": 155700,
+                            "contentvalue3": 141.21
+                        },
+                        {
+                            "contentvalue1": "RUS-CS",
+                            "contentvalue2": 634570,
+                            "contentvalue3": 622.08
+                        },
+                        {
+                            "contentvalue1": "SVN-FS",
+                            "contentvalue2": 302388,
+                            "contentvalue3": 252.46
+                        },
+                        {
+                            "contentvalue1": "BEL-FS",
+                            "contentvalue2": 737143,
+                            "contentvalue3": 765.79
+                        },
+                        {
+                            "contentvalue1": "NLD-FS",
+                            "contentvalue2": 277517,
+                            "contentvalue3": 241.48
+                        },
+                        {
+                            "contentvalue1": "LUX-FS",
+                            "contentvalue2": 794018,
+                            "contentvalue3": 763.59
+                        },
+                        {
+                            "contentvalue1": "CZE-FS",
+                            "contentvalue2": 796305,
+                            "contentvalue3": 710.61
+                        },
+                        {
+                            "contentvalue1": "SVK-FS",
+                            "contentvalue2": 662469,
+                            "contentvalue3": 712.62
+                        },
+                        {
+                            "contentvalue1": "DNK-FS",
+                            "contentvalue2": 752543,
+                            "contentvalue3": 732.83
+                        },
+                        {
+                            "contentvalue1": "SWE-FS",
+                            "contentvalue2": 686138,
+                            "contentvalue3": 593.62
+                        },
+                        {
+                            "contentvalue1": "FRA-FS",
+                            "contentvalue2": 993556,
+                            "contentvalue3": 926.51
+                        },
+                        {
+                            "contentvalue1": "ITA-FS",
+                            "contentvalue2": 262329,
+                            "contentvalue3": 221.27
+                        },
+                        {
+                            "contentvalue1": "ITA-CW",
+                            "contentvalue2": 411361,
+                            "contentvalue3": 338.87
+                        },
+                        {
+                            "contentvalue1": "POL-FS",
+                            "contentvalue2": 886893,
+                            "contentvalue3": 467.25
+                        },
+                        {
+                            "contentvalue1": "CHE-FS",
+                            "contentvalue2": 65241,
+                            "contentvalue3": 57.217
+                        },
+                        {
+                            "contentvalue1": "TUR-FS",
+                            "contentvalue2": 520353,
+                            "contentvalue3": 471.68
+                        }
+                    ]
+                },
+                {
+                    "value1": "AMS",
+                    "value2": [
+                        {
+                            "contentvalue1": "USA",
+                            "contentvalue2": 2687098,
+                            "contentvalue3": 2473.4
+                        },
+                        {
+                            "contentvalue1": "USA-CS",
+                            "contentvalue2": 529249,
+                            "contentvalue3": 491.55
+                        },
+                        {
+                            "contentvalue1": "CAN-FS",
+                            "contentvalue2": 627238,
+                            "contentvalue3": 573.59
+                        },
+                        {
+                            "contentvalue1": "MEX-FS",
+                            "contentvalue2": 174432,
+                            "contentvalue3": 166.05
+                        },
+                        {
+                            "contentvalue1": "BRA-FS",
+                            "contentvalue2": 13776,
+                            "contentvalue3": 14.196
+                        },
+                        {
+                            "contentvalue1": "ARG-FS",
+                            "contentvalue2": 214271,
+                            "contentvalue3": 196.8
+                        },
+                        {
+                            "contentvalue1": "COL-FS",
+                            "contentvalue2": 322222,
+                            "contentvalue3": 334.35
+                        }
+                    ]
+                },
+                {
+                    "value1": "AAP",
+                    "value2": [
+                        {
+                            "contentvalue1": "AUS-FS",
+                            "contentvalue2": 511243,
+                            "contentvalue3": 412.93
+                        },
+                        {
+                            "contentvalue1": "HKG-FS",
+                            "contentvalue2": 99626,
+                            "contentvalue3": 93.5
+                        },
+                        {
+                            "contentvalue1": "IND-FS",
+                            "contentvalue2": 153487,
+                            "contentvalue3": 172.48
+                        },
+                        {
+                            "contentvalue1": "JPN-MB",
+                            "contentvalue2": 825323,
+                            "contentvalue3": 691.39
+                        },
+                        {
+                            "contentvalue1": "JPN-FS",
+                            "contentvalue2": 3184,
+                            "contentvalue3": 2.672
+                        },
+                        {
+                            "contentvalue1": "KOR-FS",
+                            "contentvalue2": 1052288,
+                            "contentvalue3": 1049.2
+                        },
+                        {
+                            "contentvalue1": "MAL-FS",
+                            "contentvalue2": 160442,
+                            "contentvalue3": 166.22
+                        },
+                        {
+                            "contentvalue1": "NZL-FS",
+                            "contentvalue2": 283469,
+                            "contentvalue3": 270.23
+                        },
+                        {
+                            "contentvalue1": "SGPUMF",
+                            "contentvalue2": 15479,
+                            "contentvalue3": 15.595
+                        },
+                        {
+                            "contentvalue1": "ZAF-FS",
+                            "contentvalue2": 761666,
+                            "contentvalue3": 680.11
+                        },
+                        {
+                            "contentvalue1": "TWN-FS",
+                            "contentvalue2": 1123792,
+                            "contentvalue3": 890.91
+                        },
+                        {
+                            "contentvalue1": "THA-FS",
+                            "contentvalue2": 706117,
+                            "contentvalue3": 575.46
+                        },
+                        {
+                            "contentvalue1": "ZAF-FM",
+                            "contentvalue2": 13210,
+                            "contentvalue3": 11.383
+                        }
+                    ]
+                },
+                {
+                    "value1": "CHN",
+                    "value2": [
+                        {
+                            "contentvalue1": "CHN-FS",
+                            "contentvalue2": 3151168,
+                            "contentvalue3": 2651.4
+                        },
+                        {
+                            "contentvalue1": "CHNMBL",
+                            "contentvalue2": 540193,
+                            "contentvalue3": 480.65
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
